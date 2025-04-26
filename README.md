@@ -1,13 +1,13 @@
 # 👋 Welcome to my profile!
-A brazilian Developer! 
+### A brazilian Developer! 
 
 ## ⭐ About Me
-Discord Bot Developer
-Roblox games Developer
+### Discord Bot Developer
+### Roblox games Developer
 
 ## 🧠 My Skills
 
-.Lua ; Python ; Discord.Js
+### .Lua ; Python ; Discord.Js
 
 # 📚 Learning
-C#
+### C#
